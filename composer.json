@@ -1,0 +1,15 @@
+{
+    "name": "juan/misa-live",
+    "type": "project",
+    "description": "CS1.6 live info",
+    "require": {
+        "components/modernizr": "^3.5",
+        "components/jquery": "^3.5"
+    },
+    "authors": [
+        {
+            "name": "Juan Pablo Strnisko",
+            "email": "jpstrnisko@gmail.com"
+        }
+    ]
+}
